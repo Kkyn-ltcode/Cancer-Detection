@@ -3,7 +3,7 @@ from tensorflow.keras.preprocessing import image
 
 def home_page():
     st.markdown("""
-    <h1 style='text-align: center; color: black;'>
+    <h1 style='text-align: center;'>
     Fast and accurate histopathology cancer 
     <br>
     images prediction in real-time
